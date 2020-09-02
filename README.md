@@ -1,3 +1,3 @@
 # funcional_testes
-# Aqui um teste de como alterar ma branch
-Testando as funcionalidades do GITHUB
+# Este é o conteúdo do README alterado pela segunda vez
+Fiz outra alteração no README
