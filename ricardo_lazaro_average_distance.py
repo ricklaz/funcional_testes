@@ -26,4 +26,4 @@ viagens = df['VendorID'].count() #ou print(len(df2))
 distancia_media = round(df2['trip_distance'].mean(),2)
 
 # exibição dos resultados finais
-print("RESULTADOS  DA PESQUISA: Foram feitas "+ str(viagens) + " viagens com até 2 passageiros e obtivemos uma média de " + str(distancia_media) + "km percorridos!")
+print("RESULTADOS  DA PESQUISA 1: Foram feitas "+ str(viagens) + " viagens com até 2 passageiros e obtivemos uma média de " + str(distancia_media) + "km percorridos!")
